@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/github-compare/static/css/main.da514f1d.chunk.css",
+    "main.js": "/github-compare/static/js/main.af1fe1d1.chunk.js",
+    "main.js.map": "/github-compare/static/js/main.af1fe1d1.chunk.js.map",
+    "runtime-main.js": "/github-compare/static/js/runtime-main.3dee9f3f.js",
+    "runtime-main.js.map": "/github-compare/static/js/runtime-main.3dee9f3f.js.map",
+    "static/css/2.89b7c120.chunk.css": "/github-compare/static/css/2.89b7c120.chunk.css",
+    "static/js/2.e0bb7459.chunk.js": "/github-compare/static/js/2.e0bb7459.chunk.js",
+    "static/js/2.e0bb7459.chunk.js.map": "/github-compare/static/js/2.e0bb7459.chunk.js.map",
+    "index.html": "/github-compare/index.html",
+    "static/css/2.89b7c120.chunk.css.map": "/github-compare/static/css/2.89b7c120.chunk.css.map",
+    "static/css/main.da514f1d.chunk.css.map": "/github-compare/static/css/main.da514f1d.chunk.css.map",
+    "static/js/2.e0bb7459.chunk.js.LICENSE.txt": "/github-compare/static/js/2.e0bb7459.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/github-compare/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/logo.dbaeb104.png": "/github-compare/static/media/logo.dbaeb104.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dee9f3f.js",
+    "static/css/2.89b7c120.chunk.css",
+    "static/js/2.e0bb7459.chunk.js",
+    "static/css/main.da514f1d.chunk.css",
+    "static/js/main.af1fe1d1.chunk.js"
+  ]
+}
